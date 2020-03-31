@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pretvorba valuta</string>
+    <string name="iznos_kn">Iznos Kn</string>
+    <string name="iznos_eura">Iznos Eura</string>
+    <string name="tecaj_eura">Tečaj Eura</string>
+    <string name="kn_eu">Kn-&gt;Eu></string>
+    <string name="eu_kn">Eu-&gt;Kn></string>
+</resources>
